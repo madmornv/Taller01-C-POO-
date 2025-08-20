@@ -23,7 +23,7 @@ namespace _1POO__ejercicio_
 
 
 
-    /*class Persona (abstracción)
+    class Persona //(abstracción)
         {
 
             //encapsulamiento
@@ -98,7 +98,7 @@ namespace _1POO__ejercicio_
 
                 Console.ReadLine();
             }
-        }*/
+        }
 
 
 
