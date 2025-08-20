@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\ficha_3065909\1POO (ejercicio)\1POO (ejercicio)\bin\Debug\1POO (ejercicio).exe.config
+C:\Users\ASUS\source\repos\ficha_3065909\1POO (ejercicio)\1POO (ejercicio)\bin\Debug\1POO (ejercicio).exe
+C:\Users\ASUS\source\repos\ficha_3065909\1POO (ejercicio)\1POO (ejercicio)\bin\Debug\1POO (ejercicio).pdb
+C:\Users\ASUS\source\repos\ficha_3065909\1POO (ejercicio)\1POO (ejercicio)\obj\Debug\1POO (ejercicio).csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ficha_3065909\1POO (ejercicio)\1POO (ejercicio)\obj\Debug\1POO (ejercicio).csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ficha_3065909\1POO (ejercicio)\1POO (ejercicio)\obj\Debug\1POO (ejercicio).exe
+C:\Users\ASUS\source\repos\ficha_3065909\1POO (ejercicio)\1POO (ejercicio)\obj\Debug\1POO (ejercicio).pdb
+C:\Users\ASUS\source\repos\POO (taller).20.08.25\1POO (ejercicio)\1POO (ejercicio)\bin\Debug\1POO (ejercicio).exe.config
+C:\Users\ASUS\source\repos\POO (taller).20.08.25\1POO (ejercicio)\1POO (ejercicio)\bin\Debug\1POO (ejercicio).exe
+C:\Users\ASUS\source\repos\POO (taller).20.08.25\1POO (ejercicio)\1POO (ejercicio)\bin\Debug\1POO (ejercicio).pdb
+C:\Users\ASUS\source\repos\POO (taller).20.08.25\1POO (ejercicio)\1POO (ejercicio)\obj\Debug\1POO (ejercicio).csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\POO (taller).20.08.25\1POO (ejercicio)\1POO (ejercicio)\obj\Debug\1POO (ejercicio).exe.config
+C:\Users\ASUS\source\repos\POO (taller).20.08.25\1POO (ejercicio)\1POO (ejercicio)\obj\Debug\1POO (ejercicio).csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\POO (taller).20.08.25\1POO (ejercicio)\1POO (ejercicio)\obj\Debug\1POO (ejercicio).exe
+C:\Users\ASUS\source\repos\POO (taller).20.08.25\1POO (ejercicio)\1POO (ejercicio)\obj\Debug\1POO (ejercicio).pdb
